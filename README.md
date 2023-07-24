@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ceren AK</h1>
-<h3 align="center">A passionate frontend and game developer from Turkey</h3>
+<h3 align="center">Jr. Front-End and Game Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **ASP.Net and Unity**
 
@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am very good at playing Osu.**
 
-- 🎮 My Discord Account => candylight_
+- 🎮 My Discord Account => **candylight_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
